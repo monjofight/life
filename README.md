@@ -14,6 +14,7 @@ Claude Code のスキルを活用した日々の情報収集・整理ツール�
 
 | 日付 | トレンド | AI トレンド |
 |------|---------|------------|
+| 2026-02-14 | [trend](ideas/daily/20260214-trend.md) | |
 | 2026-02-13 | [trend](ideas/daily/20260213-trend.md) | [ai-trend](ideas/daily/20260213-ai-trend.md) |
 | 2026-02-12 | [trend](ideas/daily/20260212-trend.md) | [ai-trend](ideas/daily/20260212-ai-trend.md) |
 | 2026-02-10 | [trend](ideas/daily/20260210-trend.md) | |
